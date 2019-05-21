@@ -1,0 +1,4 @@
+opencv-python==3.4.3.18
+numpy==1.15.2
+opencv-contrib-python==4.0.0.21
+face-recognition==1.2.3
